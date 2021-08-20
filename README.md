@@ -1,11 +1,9 @@
-#About this project
-
+# About this project
 This is the backend of movie-review. 
 
-
-#Technologies:
+# Technologies:
 NodeJS and MySQL.
 
-#Features
+# Features
 1. Can CREATE, RETRIEVE, UPDATE, DELETE data from database.
 2. API connection for front-end 'movie-review'
